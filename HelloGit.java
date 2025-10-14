@@ -1,5 +1,5 @@
-public class Main {
+public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("Hello moje!");
+        System.out.println("Hello col!");
     }
 }
